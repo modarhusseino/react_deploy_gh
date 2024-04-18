@@ -2,7 +2,7 @@
   "name": "portfolio-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://modarhusseino.github.io/portfolio_react_deploy_gh",
+  "homepage": "https://modarhusseino.github.io/react_deploy_gh",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
